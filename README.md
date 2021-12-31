@@ -1,2 +1,5 @@
-# dio-decolatech-desafio-github-primeiro-repositorio
-Desafio de projeto sobre Git/Github do Decolatech
+# Repositório do Desafio de Projeto sobre Git/Github da DIO
+Repositório criado para o desafio de projeto.
+
+## Links úteis
+[Sintaxe básica Marckdowns](https://www.markdownguide.org/)
